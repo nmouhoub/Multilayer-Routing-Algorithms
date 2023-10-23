@@ -41,7 +41,7 @@ The meaning of each program option:
 * h: help
 
 ```
-
+```
 ## Examples
 
 Sample command line to run the program:
