@@ -34,8 +34,6 @@ Run the program with the input file that contains the multilayer network topolog
 
 The meaning of each program option:
 
-```
-
 * i: input_file topology (non empty file)
 * s: maximum protocol stack height (non negative)
 * c: conversion cost (non negative)
