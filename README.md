@@ -42,6 +42,7 @@ The meaning of each program option:
 * e: encapsulation cost (non negative)
 * h: help
 
+```
 
 ## Examples
 
