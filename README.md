@@ -2,8 +2,8 @@
 
 This project is a set of multilayer routing algorithms written in C++ and published in the following articles:
 
-* A stack-vector routing protocol for automatic tunneling [Mohamed Lamine Lamali et al., 2019] (https://ieeexplore.ieee.org/abstract/document/8737536)
-* A Highly Parallelizable Algorithm for Routing With Automatic Tunneling [Noureddine Mouhoub et al.] (https://ieeexplore.ieee.org/document/9829784)
+* A stack-vector routing protocol for automatic tunneling [Mohamed Lamine Lamali et al., 2019] (https://doi.org/10.1109/INFOCOM.2019.8737536)
+* A Highly Parallelizable Algorithm for Routing With Automatic Tunneling [Noureddine Mouhoub et al., 2022] (https://doi.org/10.23919/IFIPNetworking55013.2022.9829784)
 
 ## Requirements
 
@@ -62,9 +62,8 @@ make doc
 
 -->
 
-Source code documentation is available in `random-generator/doc/html/index.html`.
 
-Documentation is available on the [Wiki](https://gitub.u-bordeaux.fr/hera/multilayer-routing-algorithms).
+Additional documentation will be available on the [Wiki](https://gitub.u-bordeaux.fr/hera/multilayer-routing-algorithms).
 
 ## Licence
 
